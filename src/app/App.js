@@ -4,7 +4,9 @@ import '../scss/custom.scss'
 
 function App() {
 
-let name='my name is REALLLY'
+
+let name='my name is bob Alice'
+
 
   return (
     <div className="App">
