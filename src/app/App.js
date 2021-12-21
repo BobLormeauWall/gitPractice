@@ -2,6 +2,9 @@ import './App.scss';
 import '../scss/custom.scss'
 
 function App() {
+
+  let name=bob 
+  
   return (
     <div className="App">
       <h1> Hello world! </h1>
