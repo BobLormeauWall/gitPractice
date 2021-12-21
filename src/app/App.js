@@ -1,7 +1,11 @@
 import './App.scss';
 import '../scss/custom.scss'
 
-function App() {
+function App() 
+
+let name=Alice 
+
+
   return (
     <div className="App">
       <h1> Hello world! </h1>
