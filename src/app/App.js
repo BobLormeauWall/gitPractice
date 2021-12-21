@@ -2,7 +2,7 @@ import './App.scss';
 import '../scss/custom.scss'
 
 
-function App() 
+function App() {
 
 let name='my name is alice'
 
